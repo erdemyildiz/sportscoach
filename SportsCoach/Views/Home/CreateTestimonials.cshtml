@@ -1,0 +1,45 @@
+﻿@{ Layout = null;}
+
+@model Entity.Models.Testimonials
+
+
+
+@{
+    ViewBag.Title = "CreateTestimonials";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="form_main">
+                <h4 class="heading"><strong>Create </strong> Testimonials <span></span></h4>
+                <div class="form">
+                    @using (Html.BeginForm("CreateTestimonials", "Home", FormMethod.Post, new { @enctype = "multipart/form-data" }))
+                    {
+                        @Html.AntiForgeryToken()
+
+                        if (!ViewData.ModelState.IsValid)
+                        {
+                            <div class="alert alert-danger">
+                                @Html.ValidationSummary()
+                            </div>
+                        }
+
+                        @Html.TextBoxFor(x => x.YorumcuAdi, new { @class = "txt", @placeholder = "YorumcuAdi", @required = "required" })
+
+                        @Html.TextBoxFor(x => x.Aciklama, new { @class = "txt", @placeholder = "Aciklama", @required = "required" })
+
+                        
+
+                        <input name="resim" type="file" />
+
+
+
+                        <input type="submit" value="submit" name="submit" class="txt2">
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

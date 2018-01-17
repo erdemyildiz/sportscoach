@@ -1,0 +1,109 @@
+﻿@using Entity.Models
+@model List<Pricing>
+@{
+    Layout = null;
+}
+
+
+<section id="menu-price" class="container price generic">
+    <h2 id="fittext2" class="title-start">Pricing</h2>
+    <p class="sub-title">Most Affordable pricing</p>
+    @foreach (Pricing item in Model)
+    {
+        <div class="pricing-table-col col-md-4">
+            <ul>
+                <li class="head">
+                    <h2>@item.Name</h2>
+                    <p class="price"><span>@item.Price</span> /month</p>
+                </li>
+                <li>
+                    Pro Coach
+                </li>
+                <li>
+                    No support
+                </li>
+                <li>
+                    Sports Materials Support
+                </li>
+                <li>
+                    10 Video Files
+                </li>
+                <li>
+                    Chance to play around the world
+                </li>
+                <li>
+                    Live Interview with players
+                </li>
+                <li class="pricing-footer">
+                    <a href="#" class="btn-medium empty">
+                        <span>Sign up</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    }
+    
+    @*<div class="pricing-table-col featured-price col-md-4">
+
+        <ul>
+            <li class="head">
+                <h2>Professional</h2>
+                <p class="price"><span>$29.90</span> /month</p>
+            </li>
+            <li>
+                Pro Coach
+            </li>
+            <li>
+                No support
+            </li>
+            <li>
+                Sports Materials Support
+            </li>
+            <li>
+                10 Video Files
+            </li>
+            <li>
+                Chance to play around the world
+            </li>
+            <li>
+                Live Interview with players
+            </li>
+            <li class="pricing-footer">
+                <a href="#" class="btn-medium empty">
+                    <span>Sign up</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="pricing-table-col col-md-4">
+        <ul>
+            <li class="head">
+                <h2>Basic</h2>
+                <p class="price"><span>$29.90</span> /month</p>
+            </li>
+            <li>
+                Pro Coach
+            </li>
+            <li>
+                No support
+            </li>
+            <li>
+                Sports Materials Support
+            </li>
+            <li>
+                10 Video Files
+            </li>
+            <li>
+                Chance to play around the world
+            </li>
+            <li>
+                Live Interview with players
+            </li>
+            <li class="pricing-footer">
+                <a href="#" class="btn-medium empty">
+                    <span>Sign up</span>
+                </a>
+            </li>
+        </ul>
+    </div>*@
+</section>

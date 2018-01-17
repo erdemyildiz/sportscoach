@@ -1,0 +1,4 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\Entity\bin\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\Entity\bin\Debug\Entity.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\Entity\obj\Debug\Entity.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\Entity\obj\Debug\Entity.pdb

@@ -1,0 +1,84 @@
+﻿@using Entity.Models
+@model List<Courses>
+@{
+    Layout = null;
+}
+
+<section id="menu-information" class="container information generic">
+    <h2 id="fittext2" class="title-start">Courses</h2>
+    <p class="sub-title">Featured Courses THAT WE Take.</p>
+    @foreach (Courses item in Model)
+    {
+        <div class="item col-md-4">
+            <div class="blok-read-sm">
+                <a href="#" class="hover-image">
+                    <img src="/Content/@item.CoursesImage" alt="image" width="50" height="50" />
+                    @*<img src="/Content/img/cricket.jpg" alt="image">*@
+                    <span class="layer-block">Registration Available</span>
+                </a>
+                <div class="info-text visible-md visible-lg">
+                    <span class="left-text">45 Min</span>
+                    <span class="right-text">Intermediate</span>
+                </div>
+                <div class="content-block">
+                    <span class="point-caption bg-blue-point"></span>
+                    <span class="bottom-line bg-blue-point"></span>
+                    <h4>@item.CoursesName</h4>
+                    <p>@item.Description</p>
+                    <div class="button-main bg-fio-point">Enroll now</div>
+                    <div class="like-wrap">
+                        <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>
+                        <a href="#"><i class="fa fa-comment col-green"></i></a><span>89</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    
+    @*<div class="item col-md-4">
+        <div class="blok-read-sm">
+            <a href="#" class="hover-image">
+                <img src="/Content/img/sports.jpg" alt="image">
+                <span class="layer-block">Registration Available</span>
+            </a>
+            <div class="info-text visible-md visible-lg">
+                <span class="left-text">45 Min</span>
+                <span class="right-text">Intermediate</span>
+            </div>
+            <div class="content-block">
+                <span class="point-caption bg-blue-point"></span>
+                <span class="bottom-line bg-blue-point"></span>
+                <h4>Football Coach</h4>
+                <p>Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
+                <div class="button-main bg-fio-point">Enroll now</div>
+                <div class="like-wrap">
+                    <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>
+                    <a href="#"><i class="fa fa-comment col-green"></i></a><span>89</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="item col-md-4">
+        <div class="blok-read-sm">
+            <a href="#" class="hover-image">
+                <img src="/Content/img/baseball.jpg" alt="image">
+                <span class="layer-block">Registration Available</span>
+            </a>
+            <div class="info-text visible-md visible-lg">
+                <span class="left-text">45 Min</span>
+                <span class="right-text">Intermediate</span>
+            </div>
+            <div class="content-block">
+                <span class="point-caption bg-blue-point"></span>
+                <span class="bottom-line bg-blue-point"></span>
+                <h4>Baseball Coach</h4>
+                <p>Gregor then turned to look out the window at the dull weather. Drops of rain could pane,which made..</p>
+                <div class="button-main bg-fio-point">Enroll now</div>
+                <div class="like-wrap">
+                    <a href="#"><i class="fa fa-heart col-red"></i></a><span>224</span>
+                    <a href="#"><i class="fa fa-comment col-green"></i></a><span>89</span>
+                </div>
+            </div>
+        </div>
+    </div>*@
+</section>

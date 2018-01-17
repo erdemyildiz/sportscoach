@@ -1,0 +1,173 @@
+﻿
+@{ 
+    Layout = null;
+}
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Define Charset -->
+    <meta charset="UTF-8">
+    <!-- Page Title -->
+    <title>Sports Coach</title>
+
+    <!-- Responsive Metatag -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="favicon.html">
+    <!-- Stylesheet
+    ===================================================================================================  -->
+    
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/animate.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="/Content/font/fontello.css">
+    <link rel="stylesheet" href="/Content/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/Content/css/style.css">
+    <link rel="stylesheet" href="/Content/css/media-queries.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Content/css/countdown.demo.css" type="text/css">
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- Header -->
+    <div class="homepage">
+        <header>
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#">GOLD Gym</a>
+                    </div>
+                    <div class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="active"><a href="#menu-slider">Home</a></li>
+                            <li><a href="#menu-features">About us</a></li>
+                            <li><a href="#menu-information">Courses</a></li>
+                            <li><a href="#menu-countdown">Countdown</a></li>
+                            <li><a href="#menu-price">Pricing</a></li>
+                            <li><a href="#menu-testimonial">Testimonials</a></li>
+                            <li><a href="#menu-contact">Contact</a></li>
+                            <li><a href="#menu-contact">LogIn</a></li>
+                        </ul>
+                    </div><!--/.nav-collapse -->
+                </div>
+            </div>
+        </header>
+        <!-- end Header -->
+        <!-- Slider and Form -->
+        <section id="menu-slider" class="header">
+            <div class="container">
+                <div class="col-md-12 col-xs-12 col-sm-12 content_slider">
+                    <h1 id="fittext3" class="title-head text-center white">
+                        GOLD GYM'i Keşfet!
+                    </h1>
+
+                    <p class="sub-title-head text-center white">
+                        Herkes için tasarlanmış yeni bir spor merkezi konsepti olan GOLD Gym ile Türkiye’yi daha fit bir hale getirmeyi hedefliyoruz.
+                        Amacımız; yüksek kalite standartlarında hazırladığımız eğlenceli ve heyecanlı kulüplerimizi, spora uygun fiyatlarla üyelerimize sunmak. Üyelerimiz ister tecrübeli, ister  spora ilk defa başlıyor olsun, GOLD Gym spor merkezlerinde aradıkları her şeyi bulacaklar.
+                    </p>
+                    <div class="top-info text-center">
+                        <button class="info">Learn More</button>
+                        <button class=" info2">Purchase</button>
+                    </div>
+                </div>
+                <!-- /slider -->
+            </div>
+        </section>
+        <!-- end Slider and Form -->
+    </div>
+    <!-- Features -->
+    @Html.Action("AboutUs")
+    
+    <!-- end Features -->
+    <!-- Information -->
+    @Html.Action("Courses")
+    
+    <!-- end Information -->
+    <!-- Countdown -->
+    <section id="menu-countdown" class="countdown generic examples examples--styled">
+        <h2 id="fittext2" class="title-start white">Countdown</h2>
+        <p class="sub-title white">It's never too late, Get yourself Registered</p>
+        <div class="container">
+            <div class="contents">
+                <!-- Valid global date and time string -->
+                <div>
+                    <time id="fittext2">2015-06-08T17:47:00+0100</time>
+                </div><!-- Paris (winter) -->
+            </div>
+        </div>
+    </section>
+    <!-- end Countdown -->
+    <!-- Pricing Table -->
+    @Html.Action("Pricing")
+    
+    <!-- end Pricing Table -->
+    <!-- Testimonials -->
+    @Html.Action("Testimonials")
+    
+    <!-- end Testimonials -->
+    <!-- Contact-->
+    @Html.Action("Contact")
+    
+    <!-- end Contact -->
+    <!-- Footer -->
+    <section class="footer">
+        <div class="footer-section container">
+            <div class="item-footer col-sm-6 col-xs-12 col-md-3">
+                <a class="navbar-logobrand" href="#">Sports Coach</a>
+            </div>
+            <div class="item-footer col-sm-6 col-xs-12 col-md-3">
+                <h4 class="footer-title">Top Links</h4>
+                <ul class="gold links-footer">
+                    <li>Home</li>
+                    <li>About us</li>
+                    <li>Serivices</li>
+                    <li> Contact</li>
+                </ul>
+            </div>
+            <div class="item-footer col-sm-6 col-xs-12 col-md-3">
+                <h4 class="footer-title">Category</h4>
+                <ul class="gold links-footer">
+                    <li>Football</li>
+                    <li>Cricket</li>
+                    <li>Baseball</li>
+                    <li>Others</li>
+                </ul>
+            </div>
+            <div class="item-footer col-sm-6 col-xs-12 col-md-3">
+                <h4 class="footer-title footer-tags">Tags</h4>
+                <span class="fa fa-tag gold"> Cricket</span><span class="fa fa-tag gold"> Cricket</span><span class="fa fa-tag gold"> Cricket</span><br /><span class="fa fa-tag gold"> Cricket</span><span class="fa fa-tag gold"> Cricket</span><span class="fa fa-tag gold"> Cricket</span>
+            </div>
+        </div>
+    </section>
+    <section class="footer-bottom">
+        <p class="text-center copyright-text">&copy;Themewagon - All Rights Reserved</p>
+    </section>
+    <!--end Modal 6 img -->
+    <!-- ======================= JQuery libs =========================== -->
+    <!-- jQuery -->
+    <script src="/Content/js/jquery-1.9.1.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="/Content/js/bootstrap.min.js"></script>
+    <script src="/Content/js/nav/jquery.scrollTo.js"></script>
+    <script src="/Content/js/nav/jquery.nav.js"></script>
+    <script src="/Content/js/jquery-scrolltofixed.js"></script>
+    <script src="/Contentjs/jquery.fittext.js"></script>
+    <script src="/Content/js/modernizr.js" type="text/javascript"></script>
+    <!-- Custom -->
+    <script src="/Content/js/script.js"></script>
+    <script src="/Content/js/jquery.countdown.js"></script>
+    <script type="/Content/text/javascript">
+       		$("#fittext3,#fittext2").fitText(.95, { minFontSize: '35px', maxFontSize: '95px' });
+    </script>
+</body>
+</html>

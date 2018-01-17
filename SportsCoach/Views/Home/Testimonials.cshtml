@@ -1,0 +1,75 @@
+﻿@using Entity.Models
+@model List<Testimonials>
+@{
+    Layout = null;
+}
+
+<section id="menu-testimonial" class="testimonial">
+    <div class="container">
+        <h2 id="fittext2" class="title-start white">Testimonial</h2>
+        <p class="sub-title white">Clients Feedback about us</p>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                    <div class="item-image">
+                        @*<img src="/Content/@item.ProfilResmi" class="img-circle" width="150" height="150" alt="...">*@
+                    </div>
+                    <div class="carousel-caption">
+                        @*<span class="text-center head-text">@item.YorumcuAdi</span><br />
+                        <i class="fa fa-quote-left"></i> @item.Aciklama<i class="fa fa-quote-right"></i>*@
+                    </div>
+                </div>
+                @foreach (Testimonials item in Model)
+                {
+                    <div class="item">
+                        <div class="item-image">
+                            <img src="/Content/@item.ProfilResmi" class="img-circle" width="150" height="150" alt="...">
+                        </div>
+                        <div class="carousel-caption">
+                            <span class="text-center head-text">@item.YorumcuAdi</span><br />
+                            <i class="fa fa-quote-left"></i> @item.Aciklama<i class="fa fa-quote-right"></i>
+                        </div>
+                    </div>
+                }
+                @*<div class="item active">
+                    <div class="item-image">
+                        <img src="/Content/img/client3.jpg" class="img-circle" width="150" height="150" alt="...">
+                    </div>
+                    <div class="carousel-caption">
+                        <span class="text-center head-text">Jane Doe</span><br />
+                        <i class="fa fa-quote-left"></i> Gregor then turned to look out the window at the dull weather. Drops of rain.<i class="fa fa-quote-right"></i>
+                    </div>
+                </div>*@
+                
+                @*<div class="item">
+                    <div class="item-image">
+                        <img src="/Content/img/client1.jpg" class="img-circle" width="150" height="150" alt="...">
+                    </div>
+                    <div class="carousel-caption">
+                        <span class="text-center head-text">Jane Doe</span><br />
+                        <i class="fa fa-quote-left"></i> Gregor then turned to look out the window at the dull weather. Drops of rain.<i class="fa fa-quote-right"></i>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="item-image">
+                        <img src="/Content/img/client2.jpg" class="img-circle" width="150" height="150" alt="...">
+                    </div>
+                    <div class="carousel-caption">
+                        <span class="text-center head-text">Jane Doe</span><br />
+                        <i class="fa fa-quote-left"></i> Gregor then turned to look out the window at the dull weather. Drops of rain.<i class="fa fa-quote-right"></i>
+                    </div>
+                </div>*@
+            </div>
+            <!-- Controls -->
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="fa fa-angle-left fa-2x" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="fa fa-angle-right fa-2x" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+</section>

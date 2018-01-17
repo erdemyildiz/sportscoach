@@ -1,0 +1,148 @@
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\csc.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\System.Collections.Immutable.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\vbc.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\VBCSCompiler.exe
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\roslyn\VBCSCompiler.exe.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\SportsCoach.dll.config
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\SportsCoach.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\SportsCoach.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Antlr3.Runtime.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\EntityFramework.SqlServer.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Google.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Web.Infrastructure.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Newtonsoft.Json.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Owin.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Helpers.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Mvc.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Optimization.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Razor.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.Deployment.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.Razor.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\WebGrease.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Helpers.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Mvc.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Optimization.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.Razor.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.Deployment.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\System.Web.WebPages.Razor.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Antlr3.Runtime.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Newtonsoft.Json.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\EntityFramework.SqlServer.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Google.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\obj\Debug\SportsCoach.csprojResolveAssemblyReference.cache
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\obj\Debug\SportsCoach.dll
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\obj\Debug\SportsCoach.pdb
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\obj\Debug\SportsCoach.Migrations.kurulum.resources
+c:\users\nuuklu\documents\visual studio 2015\Projects\SportsCoach\SportsCoach\obj\Debug\SportsCoach.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\csc.exe
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\vbc.exe
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\VBCSCompiler.exe
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\SportsCoach.dll.config
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\SportsCoach.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\SportsCoach.pdb
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Antlr3.Runtime.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\EntityFramework.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\EntityFramework.SqlServer.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Newtonsoft.Json.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Owin.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Helpers.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Mvc.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Optimization.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Razor.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.Razor.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\WebGrease.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Helpers.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Mvc.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Optimization.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.Razor.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\System.Web.WebPages.Razor.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Antlr3.Runtime.pdb
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Newtonsoft.Json.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\EntityFramework.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\EntityFramework.SqlServer.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\obj\Debug\SportsCoach.csprojResolveAssemblyReference.cache
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\obj\Debug\SportsCoach.Migrations.kurulum.resources
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\obj\Debug\SportsCoach.csproj.GenerateResource.Cache
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\obj\Debug\SportsCoach.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\obj\Debug\SportsCoach.pdb
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Entity.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\Entity.pdb
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\BLL.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\DAL.dll
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\BLL.pdb
+C:\Users\nuuklu\Desktop\erdem\SportsCoach\SportsCoach\bin\DAL.pdb
